@@ -28,9 +28,9 @@ All published layers are derived from openly licensed geodata (DL‑DE Zero and 
 Repository Contents
 
 * data/ — published GeoPackages (hazard layers, study area, flood defence, connectivity)
-* maps/ — final cartographic outputs, available as PNG and PDF file formats
 * docs/ — methodology, data sources, attribution, preprocessing notes
 * metadata/ — hazard category definitions and map attribution metadata
+* outputs/ — final cartographic outputs, available as PNG and PDF file formats
 
 
 
