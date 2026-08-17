@@ -1,3 +1,5 @@
+![Storm Surge Hazard Map](outputs/png/stormsurge_hamburg_combined.png)
+
 # Storm-Surge-Hazard-Mapping
 
 A compact geospatial analysis project modelling storm‑surge hazard zones for Hamburg using QGIS and GDAL. The workflow integrates raster classification, hydrological connectivity analysis, dike‑protection filtering, and cartographic generalization to produce four storm‑surge hazard categories based on the official severity guidelines of the City of Hamburg.
