@@ -37,8 +37,6 @@ Repository Contents
 * QGIS — preprocessing, vector editing, cartography
 * GDAL — raster operations, polygonization, dissolving
 
-Data Licensing
-
 
 
 # Data Licensing
