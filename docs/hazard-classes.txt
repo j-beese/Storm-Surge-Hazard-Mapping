@@ -1,0 +1,18 @@
+Hazard Categories (Storm Surge Severity – City of Hamburg)
+
+Category 1 — ≤ 5.0 m
+Represents low-severity storm surge conditions. Areas inundated under moderate water levels.
+
+Category 2 — ≤ 5.5 m
+Represents medium-severity storm surge conditions. Inundation extends into additional low-lying areas.
+
+Category 3 — ≤ 6.5 m
+Represents high-severity storm surge conditions. Significant inundation affecting larger parts of Hamburg.
+
+Category 4 — < 7.3 m
+Represents very high-severity storm surge conditions. Extreme storm surge scenarios with widespread inundation.
+
+Hamburg’s most severe recorded storm surge occurred in 1976, reaching a peak water level of 6.45 m above NHN at St. Pauli. The event caused extensive flooding in low-lying districts such as Wilhelmsburg and Veddel and resulted in significant damage to infrastructure. This historical benchmark corresponds to a Category 3–4 storm surge under Hamburg’s official severity guidelines and illustrates the real-world relevance of the hazard classes used in this project.
+
+Source: Official storm surge severity guidelines of the City of Hamburg
+https://www.hamburg.de/politik-und-verwaltung/behoerden/behoerde-fuer-inneres-und-sport/themen/katastrophenschutz/sturmflut-fragen-und-anworten-94034

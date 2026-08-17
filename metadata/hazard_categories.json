@@ -1,0 +1,11 @@
+{
+  "categories": [
+    {"name": "Category 1", "threshold_m": 5.0},
+    {"name": "Category 2", "threshold_m": 5.5},
+    {"name": "Category 3", "threshold_m": 6.5},
+    {"name": "Category 4", "threshold_m": 7.3}
+  ],
+  "datum": "NHN",
+  "created": "2026-08-16",
+  "version": "1.0"
+}
